@@ -1,4 +1,6 @@
-The kind folks at Github made the unused "ome" account available for our use,
-but for the moment, source code is still available at:
+All public OME repositories have been transferred to the GitHub
+[OME](https://github.com/ome) organization.
 
-  http://github.com/openmicroscopy/openmicroscopy
+The openmicroscopy organization only contains source code for
+compatibility repositories as well as private repositories for
+data submissions and security reports.
